@@ -23,7 +23,7 @@ Software engineer with 8 years across logistics and healthcare, moving deeper in
 ### J.B. Hunt Transport, Inc. | Software Engineer · Apr 2019 – May 2021
 
 - Helped launch Drive 365, J.B. Hunt’s redesigned driver platform tracking 100,000+ 53' containers across its intermodal network.
-- To help drivers find loads in busy container yards, developed Spring Boot API layers serving container location and geofencing data over satellite imagery. Generated in-yard navigation routes with ArcGIS and integrated them into the Drive app’s load pickup and drop-off workflows.
+- To assist drivers in finding loads in busy container yards, developed Spring Boot API layers serving container location and geofencing data over satellite imagery. Generated in-yard navigation routes with ArcGIS and integrated them into the Drive app’s load pickup and drop-off workflows.
 - Shipped React Native features for 20,000+ active truck drivers covering deliveries, documentation, maintenance, pay, and safety.
 
 **Earlier:** Developer and Mentor, DevMountain and freelance clients · 2018 – 2019
