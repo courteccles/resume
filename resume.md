@@ -38,7 +38,7 @@ Software engineer with 8 years across logistics and healthcare, moving deeper in
 
 ## Personal Projects
 
-### Bike Frame CAD — open-source desktop CAD app · [github.com/courteccles/bikecad](https://github.com/courteccles/bikecad)
+### BikeStudio — open-source desktop CAD app · [github.com/courteccles/bikestudio](https://github.com/courteccles/bikestudio)
 
 - Building a native desktop CAD app in Rust for designing custom full-suspension bike frames, covering tube-based and freeform metal 3D-printable designs. Currently working on linkage kinematics simulation, structural FEA, and a library of real commercial components.
 
