@@ -10,3 +10,4 @@ ul { margin: 0 0 5pt; padding-left: 14pt; }
 li { margin-bottom: 1pt; }
 h2, h3 { break-after: avoid; }
 li { break-inside: avoid; }
+.contact p:first-child { font-size: 11pt; color: #222; margin-bottom: 2pt; }

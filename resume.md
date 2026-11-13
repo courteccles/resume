@@ -2,7 +2,9 @@
 
 <div class="contact">
 
-Senior Software Engineer | Remote | 703.867.3843 | [court.eccles@gmail.com](mailto:court.eccles@gmail.com) | [github.com/courteccles](https://github.com/courteccles) | [linkedin.com/in/courtenayeccles](https://linkedin.com/in/courtenayeccles)
+Senior Software Engineer
+
+Remote | 703.867.3843 | [court.eccles@gmail.com](mailto:court.eccles@gmail.com) | [github.com/courteccles](https://github.com/courteccles) | [linkedin.com/in/courtenayeccles](https://linkedin.com/in/courtenayeccles)
 
 </div>
 
