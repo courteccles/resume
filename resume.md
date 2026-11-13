@@ -39,7 +39,7 @@ Software engineer with 8+ years across logistics and healthcare, moving deeper i
 
 ## Personal Projects
 
-### bikestudio — open-source desktop app for designing bikes · [github.com/courteccles/bikestudio](https://github.com/courteccles/bikestudio)
+### bikestudio — Free-to-use desktop app for designing bikes · [github.com/courteccles/bikestudio](https://github.com/courteccles/bikestudio)
 
 - A native desktop app written in Rust for designing and simulating custom rigid, hardtail, and full-suspension bike frames. Exports drawings and kinematic reports. Later phases will cover tube-based and freeform metal 3D-printable designs with a built in CAD modeler and a library of real commercial components.
 
