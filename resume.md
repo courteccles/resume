@@ -2,7 +2,7 @@
 
 <div class="contact">
 
-Senior Software Engineer
+**Senior Software Engineer**
 
 Remote | 703.867.3843 | [court.eccles@gmail.com](mailto:court.eccles@gmail.com) | [github.com/courteccles](https://github.com/courteccles) | [linkedin.com/in/courtenayeccles](https://linkedin.com/in/courtenayeccles)
 
@@ -12,7 +12,16 @@ Remote | 703.867.3843 | [court.eccles@gmail.com](mailto:court.eccles@gmail.com) 
 
 Software engineer with 8+ years across logistics and healthcare, moving deeper into backend systems and AI development. Recent work includes a HIPAA-compliant member chat, a cached Elasticsearch provider search, an automated awards fulfillment workflow, and a Salesforce-to-Dynamics 365 migration.
 
-## Professional Experience
+## Skills
+
+- **Languages:** TypeScript, JavaScript, C#, Rust, SQL, HTML, CSS
+- **AI/LLM:** Claude Code, Copilot, Qwen Code, Ollama, agentic coding workflows, spec-driven development, AI code review
+- **Backend:** Spring Boot, .NET, Microservices, Node.js, Express, REST, SignalR, WebSockets, JWT
+- **Data & Cloud:** PostgreSQL, MySQL, Microsoft SQL Server, Redis, RabbitMQ, Elasticsearch, AWS (ECS, EC2, S3)
+- **Platforms:** Microsoft Dynamics 365, Power Apps, Power Automate, Terraform, CI/CD
+- **Frontend & Testing:** Angular, React, React Native, Redux, Jest, Cypress
+
+## Experience
 
 ### Alight Solutions | Software Engineer, Alight Worklife · May 2021 – Jul 2026 · Remote
 
@@ -31,15 +40,6 @@ Software engineer with 8+ years across logistics and healthcare, moving deeper i
 - Ensured compatibility across 200+ mobile devices.
 
 **Earlier:** Developer and Mentor, DevMountain and freelance clients · 2018 – 2019
-
-## Technical Skills
-
-- **Languages:** TypeScript, JavaScript, C#, Rust, SQL, HTML, CSS
-- **AI/LLM:** Claude Code, Copilot, Qwen Code, Ollama, agentic coding workflows, spec-driven development, AI code review
-- **Backend:** Spring Boot, .NET, Microservices, Node.js, Express, REST, SignalR, WebSockets, JWT
-- **Data & Cloud:** PostgreSQL, MySQL, Microsoft SQL Server, Redis, RabbitMQ, Elasticsearch, AWS (ECS, EC2, S3)
-- **Platforms:** Microsoft Dynamics 365, Power Apps, Power Automate, Terraform, CI/CD
-- **Frontend & Testing:** Angular, React, React Native, Redux, Jest, Cypress
 
 ## Personal Projects
 
